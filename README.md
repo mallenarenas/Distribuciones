@@ -1,2 +1,2 @@
-# inferencia_estadistica
-Clases del curso Inferencia Estadística 
+# Distribuciones de Probabilidad
+Clases del curso Inferencia Estadística en la UACH 
